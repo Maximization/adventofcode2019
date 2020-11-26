@@ -1,0 +1,16 @@
+{
+  "name": "adventofcode2019",
+  "version": "1.0.0",
+  "description": "My solutions to the Advent of Code 2019 event",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maximization/adventofcode2019.git"
+  },
+  "keywords": [],
+  "author": "Maxim Orlov <maximorl@gmail.com> (https://github.com/Maximization)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maximization/adventofcode2019/issues"
+  },
+  "homepage": "https://github.com/Maximization/adventofcode2019#readme"
+}
